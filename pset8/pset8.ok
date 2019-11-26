@@ -1,0 +1,15 @@
+{
+  "name": "Pset 9",
+  "endpoint": "cal/ugba88/fa19/pset8",
+  "src": [
+    "pset8.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
